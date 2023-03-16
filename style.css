@@ -1,0 +1,53 @@
+html{
+    height: 100%;
+    width: 100%;
+  }
+  
+  header{
+    margin-bottom: 200px;
+    background-color: white;
+  }
+  
+  body{
+    background-color: #218248;
+  }
+  
+  h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+  }
+  h2{
+    text-align: center;
+  }
+  
+  h4{
+    text-align: center;
+  }
+  h5{
+    text-align: center;
+  }
+  
+  form{
+    width: 25%;
+    padding: 20px;
+    border: 1px solid black;  
+    background-color:white;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 5px;
+    margin-left: 40px;
+    display: flex;
+  }
+
+
+
+  
+  button{
+    background-color: white;
+  border: 0px;
+  color: black;
+  border: 3px solid #218248;
+  border-radius: 20px;
+  width: 100%;
+  }
